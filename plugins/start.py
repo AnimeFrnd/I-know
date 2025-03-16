@@ -471,18 +471,17 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('❄Mᴀɪɴ Cʜᴀɴɴᴇʟ❄', url='https://t.me/Telugu_Movies_999')
+                    InlineKeyboardButton('❄ Mᴀɪɴ Cʜᴀɴɴᴇʟ ❄', url='https://t.me/Telugu_Movies_999')
                 ],
                 [
-                    InlineKeyboardButton('⚡Oɴɢᴏɪɴɢ Aɴɪᴍᴇs⚡', url='https://t.me/anime_Movies_and_Series_Telugu')
+                    InlineKeyboardButton('⚡ Oɴɢᴏɪɴɢ Aɴɪᴍᴇs ⚡', url='https://t.me/anime_Movies_and_Series_Telugu')
+                [
+                    InlineKeyboardButton('⚜️ Pᴀɪᴅ Pʀᴏᴍᴏᴛɪᴏɴ ⚜️', url='https://t.me/nithya_sree_bot')
                 ],
                 [
                    InlineKeyboardButton("🎗 ᴀʙᴏᴜᴛ 🎗", callback_data = "about"),
                    InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ 🔒", callback_data = "close")
-                ],
-                [
-                   InlineKeyboardButton("Aɴɪᴍᴇ Mᴏɴᴀʀᴄʜ😈", callback_data = "help")
-                ]
+                ], 
             ]
         )
         start_sticker = await client.send_sticker(chat_id=message.chat.id, sticker=get_sticker)
@@ -511,15 +510,17 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('❄Mᴀɪɴ Cʜᴀɴɴᴇʟ❄', url='https://t.me/Telugu_Movies_999')
+                    InlineKeyboardButton('❄ Mᴀɪɴ Cʜᴀɴɴᴇʟ ❄', url='https://t.me/Telugu_Movies_999')
                 ],
                 [
-                    InlineKeyboardButton('⚡Oɴɢᴏɪɴɢ Aɴɪᴍᴇs⚡', url='https://t.me/anime_Movies_and_Series_Telugu')
+                    InlineKeyboardButton('⚡ Oɴɢᴏɪɴɢ Aɴɪᴍᴇs ⚡', url='https://t.me/anime_Movies_and_Series_Telugu')
+                [
+                    InlineKeyboardButton('⚜️ Pᴀɪᴅ Pʀᴏᴍᴏᴛɪᴏɴ ⚜️', url='https://t.me/nithya_sree_bot')
                 ],
                 [
                    InlineKeyboardButton("🎗 ᴀʙᴏᴜᴛ 🎗", callback_data = "about"),
                    InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ 🔒", callback_data = "close")
-                ],
+                ], 
             ]
         )
         start_sticker = await client.send_sticker(chat_id=message.chat.id, sticker=get_sticker)
