@@ -7,33 +7,33 @@ settings = {
     "SPOILER": True,  # bool write True or False
     "FILE_AUTO_DELETE": 3600,  # in seconds
     "AUTO_DEL": True,  # bool write True or False
-    "STICKER_ID": "CAACAgUAAyEFAASAgUwqAAJh_mckw2STkeY1WMOHJGY4Hs9_1-2fAAIPFAACYLShVon-N6AFLnIiHgQ",
+    "STICKER_ID": "CAACAgUAAxkBAAKVWGfW0Ubsz9f61_TZp-6Cm-KS0fTfAAKwFAACMgABqFaj6u1vyYYMpx4E",
     "stk_del_timer": 1, # in seconds
-    "bot_admin": [1077880102] #e.g. 1963929292,38739292827 differetiate admins with a comma
+    "bot_admin": [6081617163] #e.g. 1963929292,38739292827 differetiate admins with a comma
 }
 
-HELP_MSG = """■ 𝗛𝗲𝗹𝗹𝗼, 𝗔𝗱𝗺𝗶𝗻𝘀!\n\n<blockquote expandable><b>ɴᴇᴇᴅ ʜᴇʟᴘ? ɪᴛ’s sɪᴍᴘʟᴇ: ᴊᴜsᴛ ᴋɴᴏᴄᴋ ᴏɴ <i>ʀᴀɪ ʏᴀɴ’s</i> ᴅᴏᴏʀ (ᴛʜᴀᴛ’s ᴍᴇ, ʙʏ ᴛʜᴇ ᴡᴀʏ). 🙋‍♂️ ᴡʜᴀᴛᴇᴠᴇʀ ɪᴛ ɪs—ǫᴜᴇsᴛɪᴏɴs, ᴄᴏɴᴄᴇʀɴs, ᴇxɪsᴛᴇɴᴛɪᴀʟ ᴄʀɪsᴇs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪs ʙᴏᴛ—ᴊᴜsᴛ ᴀsᴋ.</b></blockquote>\n\n<blockquote expandable><b>ᴡʜʏ ɪs ᴛʜɪs ᴍᴇssᴀɢᴇ sᴏ sʜᴏʀᴛ? ʙᴇᴄᴀᴜsᴇ ᴛʜɪs ʙᴏᴛ ʜᴀs ᴀʟʀᴇᴀᴅʏ ᴄᴏɴsᴜᴍᴇᴅ ᴀ ʀɪᴅɪᴄᴜʟᴏᴜs ᴀᴍᴏᴜɴᴛ ᴏғ ᴍʏ ᴛɪᴍᴇ, ᴀɴᴅ ɪ’ᴍ ɴᴏᴛ ɪɴ ᴛʜᴇ ᴍᴏᴏᴅ ᴛᴏ ᴡʀɪᴛᴇ ᴀ ɴᴏᴠᴇʟ ʜᴇʀᴇ. 🤷‍♂️ sᴏ, ʏᴇᴀʜ, ʀᴇᴀᴄʜ ᴏᴜᴛ, ᴀɴᴅ ɪ’ʟʟ sᴏʀᴛ ɪᴛ ᴏᴜᴛ.</b></blockquote>\n\n<blockquote><b>ɴᴏᴡ ɢᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴏsᴇ ʟɪɴᴋs ʟɪᴋᴇ ᴛʜᴇ ʀᴏᴄᴋsᴛᴀʀ ᴀᴅᴍɪɴ ʏᴏᴜ ᴀʀᴇ! 💪</b></blockquote>
+HELP_MSG = """■ 𝗛𝗲𝗹𝗹𝗼, 𝗔𝗱𝗺𝗶𝗻𝘀!\n\n<blockquote expandable><b>ɴᴇᴇᴅ ʜᴇʟᴘ? ɪᴛ’s sɪᴍᴘʟᴇ: ᴊᴜsᴛ ᴋɴᴏᴄᴋ ᴏɴ <i> 𝐀ʀʏᴀ </i> ᴅᴏᴏʀ (ᴛʜᴀᴛ’s ᴍᴇ, ʙʏ ᴛʜᴇ ᴡᴀʏ). 🙋‍♂️ ᴡʜᴀᴛᴇᴠᴇʀ ɪᴛ ɪs—ǫᴜᴇsᴛɪᴏɴs, ᴄᴏɴᴄᴇʀɴs, ᴇxɪsᴛᴇɴᴛɪᴀʟ ᴄʀɪsᴇs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪs ʙᴏᴛ—ᴊᴜsᴛ ᴀsᴋ.</b></blockquote>\n\n<blockquote expandable><b>ᴡʜʏ ɪs ᴛʜɪs ᴍᴇssᴀɢᴇ sᴏ sʜᴏʀᴛ? ʙᴇᴄᴀᴜsᴇ ᴛʜɪs ʙᴏᴛ ʜᴀs ᴀʟʀᴇᴀᴅʏ ᴄᴏɴsᴜᴍᴇᴅ ᴀ ʀɪᴅɪᴄᴜʟᴏᴜs ᴀᴍᴏᴜɴᴛ ᴏғ ᴍʏ ᴛɪᴍᴇ, ᴀɴᴅ ɪ’ᴍ ɴᴏᴛ ɪɴ ᴛʜᴇ ᴍᴏᴏᴅ ᴛᴏ ᴡʀɪᴛᴇ ᴀ ɴᴏᴠᴇʟ ʜᴇʀᴇ. 🤷‍♂️ sᴏ, ʏᴇᴀʜ, ʀᴇᴀᴄʜ ᴏᴜᴛ, ᴀɴᴅ ɪ’ʟʟ sᴏʀᴛ ɪᴛ ᴏᴜᴛ.</b></blockquote>\n\n<blockquote><b>ɴᴏᴡ ɢᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴏsᴇ ʟɪɴᴋs ʟɪᴋᴇ ᴛʜᴇ ʀᴏᴄᴋsᴛᴀʀ ᴀᴅᴍɪɴ ʏᴏᴜ ᴀʀᴇ! 💪</b></blockquote>
 """  # shown only to admins
 
 # Bot token @Botfather
-TG_BOT_TOKEN = '8153965988:AAGYYyszKY2_wHyky0njvgrp4FYE2pb-Xqo'
+TG_BOT_TOKEN = '5800464701:AAEcqurMoiZRO3vOGmgdvkqJg4NBOl3b0mQ'
 # Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", "27727369"))
+APP_ID = int(os.environ.get("APP_ID", "7515868"))
 
 # Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "1a6616b34f66ed256a8330ad9cb674ed")
+API_HASH = os.environ.get("API_HASH", "dbd251e9ad4883b0443cc82b618ac6fa")
 
 # Your db channel Id
-DB_CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002358588449"))
+DB_CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002292066966"))
 
 # NAME OF OWNER
-OWNER = os.environ.get("OWNER", "Sai Nallamilli")
+OWNER = os.environ.get("OWNER", "𝐀ʀʏᴀ")
 
 # OWNER ID
-OWNER_ID = 1077880102
+OWNER_ID = 6081617163
 
 # SUDO: those who can edit admins in channel
-SUDO = [1077880102]
+SUDO = [6081617163]
 if OWNER_ID not in SUDO:
     SUDO.append(OWNER_ID)
 
@@ -41,12 +41,12 @@ if OWNER_ID not in SUDO:
 PORT = os.environ.get("PORT", "8108")
 
 # Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sainallamilli:Filestore1@cluster0.8urcp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://animefrnd44:OEgLPjMjrAKR46kE@cluster0.arcfjym.mongodb.net/?retryWrites=true&w=majority")
+DB_NAME = os.environ.get("DATABASE_NAME", "AnimeMonarch")
 
 # FSUBS configuration
 FSUBS = [
-    {'_id': -1002358532189, "CHANNEL_NAME": "Animes2u"},
+    {'_id': -1001798300759, "CHANNEL_NAME": "Back Up ❄"},
 ]
 
 
@@ -54,9 +54,9 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 # Start message
 START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b>Hᴇʏ, {mention}✌🏻.  I ʜᴏᴘᴇ ʏᴏᴜ'ʀᴇ ғᴇᴇʟɪɴɢ ᴛʜᴇ ᴘᴏᴡᴇʀ ᴏғ 𝐒ʜᴀᴅᴏᴡ Mᴏɴᴀʀᴄʜ 😈.</b></blockquote>\n\n<blockquote expandable><b>I'ᴍ 𝐓ʜᴇ Uʟᴛɪᴍᴀᴛᴇ Fɪʟᴇ Sʜᴀʀɪɴɢ Bᴏᴛ, ʙᴜɪʟᴛ ᴛᴏ ʀᴜʟᴇ ᴛʜᴇ 𝐒ʜᴀᴅᴏᴡ Rᴇᴀʟᴍ 🖤\n\n‣ 🔱 Sᴛᴏʀᴇ & Sʜᴀʀᴇ Fɪʟᴇs ᴡɪᴛʜ ᴀ Sɪɴɢʟᴇ Cʟɪᴄᴋ.\n‣ 🛡️ Iɴꜰɪɴɪᴛᴇ Fɪʟᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍ.\n‣ 📂 Pᴏsᴛ Fɪʟᴇs ɪɴ 𝐀ɴɪᴍᴇ Mᴏɴᴀʀᴄʜ 👑 Tᴇᴍᴘʟᴀᴛᴇ.\n\n 𝐍ᴏᴡ, 𝐓ʜᴇ Fɪʟᴇ Rᴇᴀʟᴍ Iꜱ Uɴᴅᴇʀ Mʏ Cᴏɴᴛʀᴏʟ 😈.\n\n𝐀ʀᴇ Yᴏᴜ Rᴇᴀᴅʏ ᴛᴏ Dᴏᴍɪɴᴀᴛᴇ, {mention}-Sᴀᴍᴀ? 👑</b></blockquote>")
-ADMINS = [6161189904]
+ADMINS = [6081617163]
 # Add other admin IDs here as needed, ensuring not to include OWNER_ID
-other_admin_ids = [6161189904]  # Replace with actual admin IDs
+other_admin_ids = [6081617163]  # Replace with actual admin IDs
 for admin_id in other_admin_ids:
     if admin_id != OWNER_ID:
         ADMINS.append(admin_id)
