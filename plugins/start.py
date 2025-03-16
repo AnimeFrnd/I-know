@@ -148,7 +148,7 @@ def force_sub(func):
                         if link:
                             buttons.append(InlineKeyboardButton(channel_name, url=link))
                         else:
-                            buttons.append(InlineKeyboardButton("Error creating invite link", url="https://t.me/Manga_Yugen"))
+                            buttons.append(InlineKeyboardButton("Error creating invite link", url="https://t.me/Telugu_Movies_999"))
                     
                 from_link = message.text.split(" ")
                 if len(from_link) > 1:
@@ -471,14 +471,17 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('- ᴡᴇᴇʙs sᴇʀᴠᴇʀ -', url='https://t.me/Weebs_Server')
+                    InlineKeyboardButton('❄Mᴀɪɴ Cʜᴀɴɴᴇʟ❄', url='https://t.me/Telugu_Movies_999')
                 ],
                 [
-                   InlineKeyboardButton("⚡ ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
-                   InlineKeyboardButton("🍁 ᴄʟᴏꜱᴇ", callback_data = "close")
+                    InlineKeyboardButton('⚡Oɴɢᴏɪɴɢ Aɴɪᴍᴇs⚡', url='https://t.me/anime_Movies_and_Series_Telugu')
                 ],
                 [
-                   InlineKeyboardButton("◇ ᴀᴅᴍɪɴ ʜᴇʟᴘ ◇", callback_data = "help")
+                   InlineKeyboardButton("🎗 ᴀʙᴏᴜᴛ 🎗", callback_data = "about"),
+                   InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ 🔒", callback_data = "close")
+                ],
+                [
+                   InlineKeyboardButton("Aɴɪᴍᴇ Mᴏɴᴀʀᴄʜ😈", callback_data = "help")
                 ]
             ]
         )
@@ -508,12 +511,15 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('- ᴡᴇᴇʙs sᴇʀᴠᴇʀ -', url='https://t.me/Weebs_Server')
+                    InlineKeyboardButton('❄Mᴀɪɴ Cʜᴀɴɴᴇʟ❄', url='https://t.me/Telugu_Movies_999')
                 ],
                 [
-                   InlineKeyboardButton("⚡ ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
-                   InlineKeyboardButton("🍁 ᴄʟᴏꜱᴇ", callback_data = "close")
-                ]
+                    InlineKeyboardButton('⚡Oɴɢᴏɪɴɢ Aɴɪᴍᴇs⚡', url='https://t.me/anime_Movies_and_Series_Telugu')
+                ],
+                [
+                   InlineKeyboardButton("🎗 ᴀʙᴏᴜᴛ 🎗", callback_data = "about"),
+                   InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ 🔒", callback_data = "close")
+                ],
             ]
         )
         start_sticker = await client.send_sticker(chat_id=message.chat.id, sticker=get_sticker)
