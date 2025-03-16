@@ -490,7 +490,7 @@ async def start_command(client: Client, message: Message):
         
         await client.send_photo(
             chat_id=message.chat.id,
-            photo="https://envs.sh/odE.png",
+            photo="https://telegra.ph/file/d3491bbdc32ae14f828be-ce8f0a434572aa3ec5.jpg",
             caption=START_MSG.format(
                 first=message.from_user.first_name,
                 last=message.from_user.last_name,
@@ -531,7 +531,7 @@ async def start_command(client: Client, message: Message):
         
         await client.send_photo(
             chat_id=message.chat.id,
-            photo="https://envs.sh/odE.png",
+            photo="https://telegra.ph/file/d3491bbdc32ae14f828be-ce8f0a434572aa3ec5.jpg",
             caption=START_MSG.format(
                 first=message.from_user.first_name,
                 last=message.from_user.last_name,
