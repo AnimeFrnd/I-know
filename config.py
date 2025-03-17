@@ -16,7 +16,7 @@ HELP_MSG = """■ 𝗛𝗲𝗹𝗹𝗼, 𝗔𝗱𝗺𝗶𝗻𝘀!\n\n<blockquote
 """  # shown only to admins
 
 # Bot token @Botfather
-TG_BOT_TOKEN = '5800464701:AAEcqurMoiZRO3vOGmgdvkqJg4NBOl3b0mQ'
+TG_BOT_TOKEN = ''
 # Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "7515868"))
 
@@ -46,7 +46,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "AnimeMonarch")
 
 # FSUBS configuration
 FSUBS = [
-    {'_id': -1001798300759, "CHANNEL_NAME": "Back Up ❄"},
+    {'_id': -1002129412433, "CHANNEL_NAME": "Oɴɢᴏɪɴɢ Aɴɪᴍᴇ ❄"},
 ]
 
 
