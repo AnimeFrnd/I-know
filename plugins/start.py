@@ -108,7 +108,7 @@ def force_sub(func):
     """Implement Force Subs using @force_sub before any command function."""
     async def wrapper(client, message):
         SPOILER = get_spoiler()
-        msg = await message.reply_photo(caption="<code>Connecting!</code>", photo="https://telegra.ph/file/d3491bbdc32ae14f828be-ce8f0a434572aa3ec5.jpg", has_spoiler=SPOILER)
+        msg = await message.reply_photo(caption="<code>Connecting!</code>", photo="plugins/image/fsub.jpg", has_spoiler=SPOILER)
         user_id = message.from_user.id
         
         try:
@@ -490,7 +490,7 @@ async def start_command(client: Client, message: Message):
         
         await client.send_photo(
             chat_id=message.chat.id,
-            photo="https://telegra.ph/file/d3491bbdc32ae14f828be-ce8f0a434572aa3ec5.jpg",
+            photo="plugins/image/start.jpg",
             caption=START_MSG.format(
                 first=message.from_user.first_name,
                 last=message.from_user.last_name,
@@ -531,7 +531,7 @@ async def start_command(client: Client, message: Message):
         
         await client.send_photo(
             chat_id=message.chat.id,
-            photo="https://telegra.ph/file/d3491bbdc32ae14f828be-ce8f0a434572aa3ec5.jpg",
+            photo="plugins/image/start.jpg",
             caption=START_MSG.format(
                 first=message.from_user.first_name,
                 last=message.from_user.last_name,
